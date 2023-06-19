@@ -1,0 +1,4 @@
+"""newsLetters"""
+
+def main():
+    pass
